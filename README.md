@@ -2,6 +2,7 @@
 You can embed custom attributes as metadata in the message.
 A server generarted ID unique within the topic. 
 ## How to batch messages
+ - Send single message 
  - Send multiple messages per request
 
 ```json

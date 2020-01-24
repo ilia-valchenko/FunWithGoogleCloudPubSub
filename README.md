@@ -1,4 +1,5 @@
 # PubSub message schema
+You can embed custom attributes as metadata in the message.
 
 ```json
 {
